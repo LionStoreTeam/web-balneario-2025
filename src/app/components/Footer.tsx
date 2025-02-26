@@ -1,7 +1,6 @@
 import Image from "next/image";
 import { CiFacebook } from "react-icons/ci";
 import { FaInstagram } from "react-icons/fa";
-import { IoLocationOutline } from "react-icons/io5";
 
 
 const Footer = () => {

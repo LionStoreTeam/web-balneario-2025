@@ -3,7 +3,7 @@ import "./globals.css";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import ScrollToTopButton from "./components/ScrollToTopButton";
-import { dynaPuff, montserrat } from "../../fonts/fonts";
+import { dynaPuff } from "../../fonts/fonts";
 
 
 

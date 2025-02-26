@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 const About = () => {
     return (
         <div className="float about w-full mt-10 mb-3 px-3 flex flex-col sm:px-10 ">
