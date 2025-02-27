@@ -7,7 +7,7 @@ import Location from './_sections/Location'
 
 export default function Home() {
   return (
-    <main className='min-h-screen flex flex-col items-center text-center'>
+    <main className='min-h-screen flex flex-col items-center text-center cursor-default select-none'>
       <Hero />
       <About />
       <Content />
