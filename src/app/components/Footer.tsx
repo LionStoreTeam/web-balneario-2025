@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { CiFacebook } from "react-icons/ci";
-import { FaInstagram } from "react-icons/fa";
 
 
 const Footer = () => {
