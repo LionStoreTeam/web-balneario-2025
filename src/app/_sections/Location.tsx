@@ -36,7 +36,7 @@ const Location = () => {
                     </div>
                     <div className="w-[200px] flex flex-col gap-4 justify-center items-center text-white md:w-[400px]">
                         <IoLocationOutline className="float size-10 text-orange-200" />
-                        <p className="text-[17px] md:text-[30px]">Ejido de Atlacomulco, Begonias Ezq Rosales, al fondo de la calle Rosales.</p>
+                        <p className="text-[17px] md:text-[30px]">Ejido de Atlacomulco, Begonias s/n esquina Rosales, al fondo de la calle Rosales, en Jiutepec, Jiutepec, Mexico</p>
                     </div>
                 </div>
             </div>

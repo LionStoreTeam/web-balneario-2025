@@ -22,7 +22,7 @@
 }
 
 .about {
-  background-image: url("/NOTA.svg");
+  background-image: url("/NOTA.png");
   background-size: cover; /* Hace que la imagen de fondo cubra toda la pantalla */
   background-repeat: no-repeat; /* Evita que la imagen de fondo se repita */
   background-attachment: fixed; /* Hace que la imagen de fondo se mantenga fija al hacer scroll */

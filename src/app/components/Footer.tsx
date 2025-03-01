@@ -19,12 +19,9 @@ const Footer = () => {
             </div>
             {/* Social Media */}
             <div className="float mb-5 flex gap-5 justify-center items-center">
-                <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.facebook.com/share/15sqwFWa4F/" target="_blank" rel="noopener noreferrer">
                     <CiFacebook className="size-10 md:size-14 opacity-30 hover:opacity-100 transition-all ease-linear" />
 
-                </a>
-                <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
-                    <FaInstagram className="size-10 md:size-14 opacity-30 hover:opacity-100 transition-all ease-linear" />
                 </a>
             </div>
             <div className="text-[12px]">
