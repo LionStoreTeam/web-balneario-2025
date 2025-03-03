@@ -6,7 +6,7 @@ const Content = () => {
         <div className="float my-2 w-full">
             <div className="backbg py-10 h-auto w-full flex flex-col items-center justify-center overflow-hidden rounded-md">
                 <h1 className="md:text-3xl text-3xl lg:text-6xl font-bold text-center text-white relative z-20">
-                    Nuestras principales atracciones
+                    Paisajes Únicos
                 </h1>
                 <div className="w-[40rem] h-20 relative">
                     {/* Gradients */}

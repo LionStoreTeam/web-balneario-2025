@@ -4,24 +4,28 @@ import Carousel from "@/components/ui/carousel";
 export function CarouselDemo() {
     const slideData = [
         {
-            title: "Atracciones increíbles",
-            src: "https://images.pexels.com/photos/14603496/pexels-photo-14603496.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            title: "Relájate en nuestra alberca",
+            src: "8.jpeg",
         },
         {
             title: "Sumérgete en la aventura",
-            src: "https://images.pexels.com/photos/13760363/pexels-photo-13760363.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            src: "3.jpeg",
         },
         {
             title: "Diviértete como nunca",
-            src: "https://images.pexels.com/photos/4306930/pexels-photo-4306930.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            src: "6.jpeg",
         },
         {
-            title: "Diversión extrema",
-            src: "https://images.pexels.com/photos/10816936/pexels-photo-10816936.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            title: "Disfruta del Sol y la Naturaleza",
+            src: "2.jpeg",
+        },
+        {
+            title: "Vistas increíbles",
+            src: "4.jpeg",
         },
         {
             title: "Para toda la familia",
-            src: "https://images.pexels.com/photos/8094751/pexels-photo-8094751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            src: "11.jpg",
         },
     ];
     return (

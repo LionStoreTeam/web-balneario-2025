@@ -41,7 +41,9 @@ const Hero = () => {
                 </p>
 
             </div>
-            <Image src="/LOGO_TONOS.png" alt='' width={500} height={500} className='float p-2 bg-blue-100 bg-opacity-20' />
+            <div className="w-full flex justify-center bg-blue-100 bg-opacity-20 ">
+                <Image src="/LOGO_TONOS.png" alt='' width={500} height={500} className='float p-2 ' />
+            </div>
         </div>
     );
 }
