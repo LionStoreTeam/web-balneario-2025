@@ -6,8 +6,8 @@ import { TypeAnimation } from 'react-type-animation';
 const Hero = () => {
     return (
         <div className="welcome w-full flex flex-col text-white justify-center items-center">
-            <div className="my-20 p-2 flex flex-col text-center rounded-xl sm:p-4">
-                <h1 className='text-[40px] mb-8 md:text-[60px] xl:text-[80px] font-bold tracking-wider uppercase'>
+            <div className="flex flex-col text-center bg-blue-100 bg-opacity-20 w-full">
+                <h1 className='text-[40px] mb-8 pt-10 md:text-[60px] xl:text-[80px] font-bold tracking-wider uppercase'>
                     <TypeAnimation
                         sequence={[
                             // Same substring at the start will only be typed out once, initially
@@ -26,7 +26,7 @@ const Hero = () => {
                         repeat={Infinity}
                     />
                 </h1>
-                <p className='p-2 rounded-xl text-[20px] md:text-[25px] xl:text-[30px] bg-cyan-400 bg-opacity-60'>
+                {/* <p className='p-2 rounded-xl text-[20px] md:text-[25px] xl:text-[30px]'>
                     <TypeAnimation
                         sequence={[
                             // Same substring at the start will only be typed out once, initially
@@ -38,10 +38,10 @@ const Hero = () => {
                         style={{ fontSize: '1em', display: 'inline-block' }}
                         repeat={Infinity}
                     />
-                </p>
+                </p> */}
 
             </div>
-            <div className="w-full flex justify-center bg-blue-100 bg-opacity-20 ">
+            <div className="w-full flex justify-center bg-blue-100 bg-opacity-20">
                 <Image src="/LOGO_TONOS.png" alt='' width={500} height={500} className='float p-2 ' />
             </div>
         </div>
